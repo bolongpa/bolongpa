@@ -22,11 +22,6 @@ Senior Data Engineer / Tech Lead (AI & Intelligent Automation) at SHEIN — ente
 
 `Python` · `LangChain` `LlamaIndex` `LangGraph` · `Claude` `OpenAI` · `Pinecone` `FAISS` `NebulaGraph` · `Spark` `Kafka` `Flink` `Airflow` · `Kubernetes` `Docker` `AWS`
 
-## 📊 Stats
-
-![Bolong's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolongpa&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolongpa&layout=compact)
-
 ## 📫 Reach me
 
 - andy117622@gmail.com
