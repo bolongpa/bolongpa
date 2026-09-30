@@ -1,20 +1,26 @@
 # Hi, I'm Bolong (Andy) Pan 👋
 
-**AI Engineer** · San Diego, CA — I build production LLM systems that survive contact with the real world.
+AI engineer in San Diego. I build production LLM systems — the kind that survive contact with the real world.
 
-Currently **Senior Data Engineer, Tech Lead (AI & Intelligent Automation)** at SHEIN, where I design enterprise-scale knowledge layers (GraphRAG, agentic retrieval, automated ontology induction over 10K+ documents), LLM-powered ETL health monitoring agents, and AI coding assistants. Previously at Yahoo building large-scale ads data infrastructure on Spark/AWS.
+🚀 **Latest: [repopedia](https://github.com/bolongpa/repopedia)** — MIT-licensed code knowledge graph. `pip install repopedia`, point it at any repo, and ask the graph anything: who calls this function, what's the blast radius, generate a wiki from it. No embeddings, no Docker, LLM optional. ([90-sec demo](https://youtu.be/B7GLgjoy7G8))
 
-## 🔬 Featured projects
+## 🧪 Projects
 
 | Project | What it is |
 |---|---|
-| [rag-eval-lab](https://github.com/bolongpa/rag-eval-lab) | LLM-as-judge evaluation harness for RAG pipelines — faithfulness, answer relevancy, context precision & recall, with CLI reports |
-| [logroot-agent](https://github.com/bolongpa/logroot-agent) | LLM agent for log anomaly detection and root-cause analysis — heuristic detectors plus a tool-calling investigation loop |
-| [minigraphrag](https://github.com/bolongpa/minigraphrag) | A minimal, complete GraphRAG implementation — LLM triple extraction, knowledge graph, community detection, hybrid retrieval, cited answers |
+| [repopedia](https://github.com/bolongpa/repopedia) | Code knowledge graph: tree-sitter AST → SQLite, 7 MCP tools, wiki generator |
+| [minigraphrag](https://github.com/bolongpa/minigraphrag) | Minimal, complete GraphRAG — triple extraction, community detection, cited answers |
+| [rag-eval-lab](https://github.com/bolongpa/rag-eval-lab) | LLM-as-judge eval harness for RAG pipelines |
+| [logroot-agent](https://github.com/bolongpa/logroot-agent) | Log anomaly detection + root-cause analysis agent |
+| [poke-consistency-kit](https://github.com/bolongpa/poke-consistency-kit) | Ontology + visual-consistency toolkit (yes, Pokémon) |
+
+## 💼 Day job
+
+Senior Data Engineer / Tech Lead (AI & Intelligent Automation) at SHEIN — enterprise knowledge layers, GraphRAG, agentic retrieval, LLM-powered data health monitoring. Previously at Yahoo, large-scale ads data infra on Spark/AWS.
 
 ## 🛠️ Stack
 
-`Python` · `LangChain` `LlamaIndex` `LangGraph` · `Anthropic Claude` `OpenAI` · `Pinecone` `FAISS` `Nebula Graph` · `Spark` `Kafka` `Flink` `Airflow` · `Kubernetes` `Docker` `AWS`
+`Python` · `LangChain` `LlamaIndex` `LangGraph` · `Claude` `OpenAI` · `Pinecone` `FAISS` `NebulaGraph` · `Spark` `Kafka` `Flink` `Airflow` · `Kubernetes` `Docker` `AWS`
 
 ## 📊 Stats
 
@@ -23,5 +29,5 @@ Currently **Senior Data Engineer, Tech Lead (AI & Intelligent Automation)** at S
 
 ## 📫 Reach me
 
-- Email: andy117622@gmail.com
+- andy117622@gmail.com
 - Open to **AI Engineer / LLM Engineer** roles (US-wide)
